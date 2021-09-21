@@ -1,10 +1,5 @@
 {
-  "settingsInheritedFrom": "Dima2022/whitesource-config@main",
-  "scanSettings": {
-    "configMode": "EXTERNAL",
-    "configExternalURL": "https://github.com/Dima2022/whitesource-config/blob/main/whitesource.config",
-    "baseBranches": []
-  }
+  "settingsInheritedFrom": "Dima2022/whitesource-config@main"
 }
 
 
